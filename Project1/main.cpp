@@ -25,7 +25,7 @@ int main() {
 
 	plane1.name = "boing747-400";
 	plane1.speed = 950;
-	plane1.length = 70.;
+	plane1.length = 70.66;
 	plane1.height = 19.41;
 	plane1.count = 700;
 }
